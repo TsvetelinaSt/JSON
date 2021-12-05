@@ -1,8 +1,8 @@
 {
-	"Surname": "Stoykova",
-	"Name": "Tsvetelina",
-	"Patronymic": "Stoykova",
-	"Age": "41",
+	"Surname": "Ivanova",
+	"Name": "Miroslava",
+	"Patronymic": "Evgenievna",
+	"Age": "23",
 	"Domestic animal": {
 		"Сhinchilla": {
 			"age": 1,
@@ -13,6 +13,6 @@
 			"name": "Lastik"
 		}
 	},
-	"future desired salary": 70000
+	"future desired salary": 120000
 
 }
